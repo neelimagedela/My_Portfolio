@@ -112,7 +112,7 @@ const About: React.FC = () => {
               lineHeight: 1.8
             }}
           >
-            Beyond my <b>8.42 CGPA</b>, I constantly explore <b>Artificial Intelligence</b> and modern <b>Web Technologies</b>.
+            Beyond my <b>8.51 CGPA</b>, I constantly explore <b>Artificial Intelligence</b> and modern <b>Web Technologies</b>.
           </p>
         </div>
 

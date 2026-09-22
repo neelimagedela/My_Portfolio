@@ -5,7 +5,7 @@ const Achievements: React.FC = () => {
   const certificates = [
     "Python Essentials 1 & 2 – Cisco Networking Academy",
     "The Joy of Computing Using Python – NPTEL",
-    "Web Application Development using Node.js & MongoDB – Infosys Springboard",
+    "Machine Learning (Elite) – NPTEL",
     "Wadhwani: JobReady Employability Skills (Basic Level) – Dec 18, 2025"
   ];
 

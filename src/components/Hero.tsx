@@ -110,7 +110,7 @@ const Hero: React.FC = () => {
               textTransform: 'uppercase',
             }}
           >
-            B.Tech CSM Student • Web Developer
+            B.Tech CSM Student • Aspiring Software Developer
           </motion.span>
 
           <h1
@@ -134,11 +134,10 @@ const Hero: React.FC = () => {
               lineHeight: '1.6',
             }}
           >
-            Transforming complex algorithms into{' '}
+            Passionate about{' '}
             <span style={{ color: 'white', fontWeight: 'bold' }}>
-              seamless user experiences
+              software development, Full-Stack technologies, and AI/ML.
             </span>
-            . Passionate about AI, Machine Learning, and Modern Web Tech.
           </p>
 
           {/* Buttons */}

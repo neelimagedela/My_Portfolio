@@ -69,6 +69,19 @@ const Projects: React.FC = () => {
         "Showcase"
       ],
       color: "#22c55e"
+    },
+    {
+      title: "CallMedex",
+      status: "Team Project",
+      image: "https://images.unsplash.com/photo-1516841273335-e39b37888115?q=80&w=800&auto=format&fit=crop",
+      description: "Client-based healthcare web application developed as a team project.",
+      tags: ["React", "Node.js", "Express.js", "MySQL"],
+      features: [
+        "Frontend development using React",
+        "Backend API integration using Node.js and Express.js",
+        "MySQL database integration"
+      ],
+      color: "#14b8a6"
     }
   ];
 

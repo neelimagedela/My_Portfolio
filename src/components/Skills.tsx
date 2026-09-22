@@ -18,7 +18,6 @@ const TechStack: React.FC = () => {
       skills: [
         { name: "HTML", level: 9 },
         { name: "CSS", level: 9 },
-        { name: "JavaScript", level: 8 },
         { name: "React.js", level: 8 },
         { name: "Node.js", level: 7 },
         { name: "Express.js", level: 7 }
@@ -30,7 +29,6 @@ const TechStack: React.FC = () => {
       skills: [
         { name: "Machine Learning", level: 8 },
         { name: "Data Preprocessing", level: 8 },
-        { name: "Naive Bayes", level: 7 }
       ]
     },
     {
@@ -38,7 +36,6 @@ const TechStack: React.FC = () => {
       color: "#f59e0b",
       skills: [
         { name: "MySQL", level: 8 },
-        { name: "MongoDB", level: 7 }
       ]
     },
     {

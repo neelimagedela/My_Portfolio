@@ -37,16 +37,6 @@ const Internships: React.FC = () => {
     },
     {
       id: 4,
-      title: 'Cybersecurity Intern',
-      issuer: 'Cisco Networking Academy',
-      year: '2025',
-      skills: ['Network Security', 'Packet Tracer'],
-      color: '#22C55E',
-      icon: '🛡️',
-      description: 'Learned security fundamentals and simulations.'
-    },
-    {
-      id: 5,
       title: 'Prompt Engineering',
       issuer: 'Vault of Codes',
       year: '2025',
@@ -56,7 +46,7 @@ const Internships: React.FC = () => {
       description: 'Designed prompts and explored GenAI.'
     },
     {
-      id: 6,
+      id: 5,
       title: 'SQL & Database Management Intern',
       issuer: 'EduSkills',
       year: '2025',
@@ -64,6 +54,26 @@ const Internships: React.FC = () => {
       color: '#f59e0b',
       icon: '🗄️',
       description: 'Practiced SQL queries, database design, and relational database management.'
+    },
+    {
+      id: 6,
+      title: 'Full Stack Web Development Intern',
+      issuer: 'Sure Trust',
+      year: '2026',
+      skills: ['React.js', 'Node.js', 'Express.js', 'MySQL'],
+      color: '#6366F1',
+      icon: '💻',
+      description: 'Developed web application features using React.js, Node.js, Express.js, and MySQL. Worked on RESTful APIs, database integration, debugging, and testing.'
+    },
+    {
+      id: 7,
+      title: 'Software Development Intern',
+      issuer: 'Lumora Systems Private Limited',
+      year: '2026',
+      skills: ['Web Development', 'Debugging', 'Testing'],
+      color: '#14B8A6',
+      icon: '⚙️',
+      description: 'Contributed to developing and enhancing web application features. Implemented, tested, and debugged application functionality in a team environment.'
     },
   ];
 

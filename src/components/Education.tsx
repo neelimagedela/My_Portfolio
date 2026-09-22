@@ -8,7 +8,7 @@ const Education: React.FC = () => {
       degree: "B. Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
       duration: "2023 – 2027",
       location: "Gayatri Vidya Parishad College of Engineering for Women",
-      score: "CGPA: 8.42",
+      score: "CGPA: 8.51",
       details: "Focused on Machine Learning, Deep Learning, Data Structures, Database Systems, Computer Networks, Cloud Technologies, and Web Development.",
       skills: ["Machine Learning", "Deep Learning", "Data Structures", "Database Systems", "Computer Networks", "Cloud Technologies", "Web Development"],
       color: "#ec4899"
@@ -17,7 +17,7 @@ const Education: React.FC = () => {
       degree: "Intermediate (MPC)",
       duration: "2021 – 2023",
       location: "Narayana Junior College",
-      score: "Grade: A",
+      score: "Percentage:87",
       details: "Mastered core engineering basics with a focus on logical reasoning and physics.",
       skills: ["Mathematics", "Physics", "Chemistry", "Problem Solving"],
       color: "#a855f7"
